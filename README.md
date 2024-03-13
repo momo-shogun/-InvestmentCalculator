@@ -1,4 +1,5 @@
 ###   Level Up Your Finances: Investment Calculator! 
+![Example Image](./investimg.png)
 
 ## Installing Guide for React Project
 
